@@ -3,6 +3,7 @@ In your terminal:
 <pre>
 cd /path/to/where_you_want_this_to_be_stored
 git clone https://github.com/genderev/assassin_server.git
+cd assassin_server
 flyctl init
 flyctl deploy
 </pre>
