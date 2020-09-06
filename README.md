@@ -20,7 +20,7 @@ If you haven't installed npm, learn about it <a href="https://www.w3schools.com/
 
 Inside the folder for <code>assassin_server</code>, on your computer, go to the file server.js and add this: <code> console.log(drive.key)</code>.
 Then run <code> npm install</code> and <code> npm start </code> from that folder inside the terminal. 
-Now go to <code> http://localhost:8080 </code> in your browser. In the browser console, you will see the result of <code> console.log(drive.key)</code>. Save it! You can use this to access your data if your server ever goes down etc.
+Now go to <code> http://localhost:8080 </code> in your browser. In the terminal, you will see the result of <code> console.log(drive.key)</code>. Save it! You can use this to access your data if your server ever goes down etc.
 
 
 
