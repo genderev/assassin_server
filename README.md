@@ -1,3 +1,5 @@
+Make a fly.io account. Install Docker and have it running. Then type this in your terminal and hit enter after every line.
+
 In your terminal:
 
 <pre>
