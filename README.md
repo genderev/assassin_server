@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/genderev/assassin_server)
+
 Make a fly.io account. Install Docker and have it running. Then type this in your terminal and hit enter after every line.
 
 In your terminal:
